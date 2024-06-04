@@ -2,7 +2,7 @@
 
 ## Sobre mim!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transição de carreira.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transição de carreira. </br>
 🔧 Tenho forte capacidade de resolver problemas, desejo contínuo de aprender e crescer na área de tecnologia.
 🌌 Futuramente me vejo trabalhando em ptojetos grandes e complexos
 🍀 Meu desejo é seguir no desenvolvimento FullStack 
