@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transiç�
 
 
 | minhas Formaçoes | Certificação |
------------------------------------
+| ---------------- | ------------ |
 | HTML Developer | [link]google.com |
 
 
