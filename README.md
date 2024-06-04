@@ -11,11 +11,11 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transiç�
 
 | Minhas Formaçoes | Certificação |
 | ---------------- | ------------ |
-| HTML Developer | [link]google.com |
+| HTML Developer | [CERTIFICADO](https://hermes.dio.me/certificates/cover/05489864.jpg)|
 | JAVASCRIPR Developer | [CERTIFICADO](https://hermes.dio.me/certificates/cover/GCMRQJMF.jpg) |
-| CSS Developer | https://hermes.dio.me/certificates/cover/9ECD4B41.jpg |
-
-
+| CSS Developer | [CERTIFICADO](https://hermes.dio.me/certificates/cover/9ECD4B41.jpg) |
+| LINUX do Zero | [CERTIFICADO](https://hermes.dio.me/certificates/cover/3OGMK2LD.jpg) |
+| LINUX Fundamentals | [CERTIFICADO](https://hermes.dio.me/certificates/cover/264724C1.jpg) |
 
 
 <!--
