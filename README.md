@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transiç�
 
 ## Redes Socias
 
-[Linkedin](linkedin.com/luckkkkas)
+[Linkedin](https://linkedin.com/luckkkkas)
 
 | Minhas Formaçoes | Certificação |
 | ---------------- | ------------ |
