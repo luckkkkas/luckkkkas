@@ -1,5 +1,4 @@
 # Bem Vindo ao Meu GitHub!!
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJjaGxpbW9rOTNobmR0YXlpY2w2cjdqOWJzbmN3OXhrenlyYnByeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVzH2XY3Y0Ar6/giphy.webp
 
 ## Sobre mim!
 
