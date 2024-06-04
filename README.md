@@ -6,11 +6,15 @@ Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transiç�
 
 ## Redes Socias
 
-[Linkedin](https://linkedin.com/luckkkkas)
+
+[Linkedin](https://www.linkedin.com/in/luckkkkas/)
 
 | Minhas Formaçoes | Certificação |
 | ---------------- | ------------ |
 | HTML Developer | [link]google.com |
+| JAVASCRIPR Developer | [CERTIFICADO](https://hermes.dio.me/certificates/cover/GCMRQJMF.jpg) |
+| CSS Developer | https://hermes.dio.me/certificates/cover/9ECD4B41.jpg |
+
 
 
 
