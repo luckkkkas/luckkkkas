@@ -3,10 +3,10 @@
 ## Sobre mim!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transição de carreira. </br>
-🔧 Tenho forte capacidade de resolver problemas, desejo contínuo de aprender e crescer na área de tecnologia.
-🌌 Futuramente me vejo trabalhando em ptojetos grandes e complexos
-🍀 Meu desejo é seguir no desenvolvimento FullStack 
-👽 sempre atrás de conhecimento e aprimoramento das minhas habilidades.
+🔧 Tenho forte capacidade de resolver problemas, desejo contínuo de aprender e crescer na área de tecnologia.</br>
+🌌 Futuramente me vejo trabalhando em ptojetos grandes e complexos</br>
+🍀 Meu desejo é seguir no desenvolvimento FullStack </br>
+👽 sempre atrás de conhecimento e aprimoramento das minhas habilidades.</br>
 
 
 ## Redes Socias
