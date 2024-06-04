@@ -2,8 +2,11 @@
 
 ## Sobre mim!
 
-Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transição de carreira. Possuo habilidades em JavaScript, Git/GitHub, Linux, HTML e CSS. Tenho forte capacidade de resolver problemas, desejo contínuo de aprender e crescer na área de tecnologia. Estou pronto para contribuir com projetos inovadores e desenvolver minha carreira na área de desenvolvimento de software.
-Futuramente me vejo trabalhando em ptojetos grandes e complexos, meu desejo é seguir no desenvolvimento FullStack, sempre atrás de conhecimento e aprimoramento de minhas habilidades.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, na Uniasselvi, em transição de carreira.
+🔧 Tenho forte capacidade de resolver problemas, desejo contínuo de aprender e crescer na área de tecnologia.
+🌌 Futuramente me vejo trabalhando em ptojetos grandes e complexos
+🍀 Meu desejo é seguir no desenvolvimento FullStack 
+👽 sempre atrás de conhecimento e aprimoramento das minhas habilidades.
 
 
 ## Redes Socias
