@@ -20,7 +20,7 @@
 | ---------------- | ------------ |
 | LÓGICA DE PROGRAMAÇÂO | [CURSO EM VIDEO]([https://hermes.dio.me/certificates/cover/05489864.jpg](https://www.cursoemvideo.com/certificates/certificado/?course_id=25239&cert-nonce=766f1d6687))|
 | HTML Developer | [DIO](https://hermes.dio.me/certificates/cover/05489864.jpg)|
-| JAVASCRIPR Developer | [DIO](https://hermes.dio.me/certificates/cover/GCMRQJMF.jpg) [CURSO EM VIDEO](https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=8a37c2ab02) |
+| JAVASCRIPR Developer | [DIO](https://hermes.dio.me/certificates/cover/GCMRQJMF.jpg),  [CURSO EM VIDEO](https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=8a37c2ab02) |
 | CSS Developer | [DIO](https://hermes.dio.me/certificates/cover/9ECD4B41.jpg) |
 | LINUX do Zero | [DIO](https://hermes.dio.me/certificates/cover/3OGMK2LD.jpg) |
 | LINUX Fundamentals | [DIO](https://hermes.dio.me/certificates/cover/264724C1.jpg) |
