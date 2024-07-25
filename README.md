@@ -11,6 +11,7 @@
 
 ## Redes Socias
 
+
 [Linkedin](https://www.linkedin.com/in/luckkkkas/)
 
 
