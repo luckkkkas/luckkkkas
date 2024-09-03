@@ -15,10 +15,6 @@
 [Linkedin](https://www.linkedin.com/in/luckkkkas/)
 
 
-
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF4NnJmeGprODF1Y3c3dmFxM2J3ejFhczlhb20zb245cmtnOHhqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK1EfIsdkKZMY/giphy.webp
-
-
 <!--
 **luckkkkas/luckkkkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
