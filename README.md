@@ -46,6 +46,5 @@ Vamos criar algo incrível juntos! Fale comigo em:
 
 - E-mail: [lucashbo321@gmail.com](mailto:lucashbo321@gmail.com)
 - LinkedIn: [[https://www.linkedin.com/in/luckkkkas/](https://www.linkedin.com/in/luckkkkas/)]
-<!--->- Portfólio: [designsdamarta.com.br](http://designsdamarta.com.br/)
+<!--- Portfólio: [designsdamarta.com.br](http://designsdamarta.com.br/)-->
 
-Obrigada por ter visitado meu cantinho da internet! 💫
